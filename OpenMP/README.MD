@@ -1,3 +1,3 @@
-Use OpenMP to compute 2.5D matrix multiplication in parallel
+Use OpenMP to compute LU decomposition in parallel
 
-compile with mpicxx
+compile with icpc
